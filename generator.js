@@ -1,4 +1,3 @@
-
 class AudioManager {
     constructor() {
         this.playbackList = [];
